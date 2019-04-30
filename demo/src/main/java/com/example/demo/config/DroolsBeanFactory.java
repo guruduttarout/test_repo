@@ -14,6 +14,11 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 
+ * @author grout
+ *
+ */
 public class DroolsBeanFactory {
 
 	private static final String RULES_PATH = "com/baeldung/drools/rules/";
